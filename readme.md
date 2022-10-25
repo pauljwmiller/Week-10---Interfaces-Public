@@ -19,6 +19,10 @@ As was an option last week, students who have had their fill of Unity can do som
 
 "Interface" or "medium" is an obvious choice, but you might also look up some of his jargon. What's a "mediatic condition"? What's the difference between catoptric and dioptrics? What is the "juridico-geometric sublime"? What is an "invisible hand"? A "supplement"? "Historical materialism"? What does it mean that something is "Brechtian"?
 
+## I'm Staying on the Bus!
+
+Proceed as per usual below...
+
 ## Level 
 
 Each Learning Unit has instructions as a txt file in the folder with the scene (Unit01 etc). The instructions will tell you what needs to be done for each unit.
