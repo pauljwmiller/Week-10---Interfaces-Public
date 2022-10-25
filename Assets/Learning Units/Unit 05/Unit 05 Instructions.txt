@@ -1,0 +1,7 @@
+Unit 05 Instructions
+
+The goal is to show the Y coordinate of the cube on the screen. 
+You will need to add some extra code to the "ChangeTextValue.cs" 
+Component on the Text (TMP) GameObject. 
+You will probably need to make edits in the Inspector as well 
+(but nothing needs to be added to the Inspector).

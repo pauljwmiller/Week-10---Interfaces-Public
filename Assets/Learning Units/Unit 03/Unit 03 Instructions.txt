@@ -1,0 +1,7 @@
+Unit 03 Instructions
+
+The goal is to have a check box that will allow us to make 
+the red cube fall or not (by changing its isKinematic field value)
+
+You do not need to write any scripts for this, 
+but you might need to change something in the scene...

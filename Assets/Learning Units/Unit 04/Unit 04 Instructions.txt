@@ -1,0 +1,7 @@
+Unit 04 Instructions
+
+The goal is to have two buttons: move left and move right, that move BOTH spheres a certain amount when clicked.
+
+The spheres already have a component on them called "MoveObject". 
+
+You do not need to write or edit any scripts for this, but you might need to add something in the scene...

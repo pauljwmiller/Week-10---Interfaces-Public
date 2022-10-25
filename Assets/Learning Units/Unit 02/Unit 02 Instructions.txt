@@ -1,0 +1,7 @@
+Unit 02 Instructions
+
+The goal is to have a check box that will 
+allow us to make the red sphere appear and disappear. 
+
+You do not need to write any scripts for this, 
+but you might need to make something in the scene...
