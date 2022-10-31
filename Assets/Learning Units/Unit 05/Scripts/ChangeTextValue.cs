@@ -7,6 +7,7 @@ public class ChangeTextValue : MonoBehaviour
 {
     // DIRECTIONS: The goal of this script is to show the Y coordinate of the cube on
     // the screen. You will need to add some stuff to this script to make it work...
+    [SerializeField] GameObject objectToLocate;
 
     TextMeshProUGUI textMeshProUGUI;
 
